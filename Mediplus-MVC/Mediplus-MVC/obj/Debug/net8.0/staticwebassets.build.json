@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vWfVJK5bXyAa66i44KzZLmkk/MXeryOLmPWfSzs1iBE=",
+  "Hash": "LwobnthUYMMV3xZGlPQUBYiv6ciLVh8h0SKnEop3Hbc=",
   "Source": "Mediplus-MVC",
   "BasePath": "_content/Mediplus-MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Mediplus-MVC\\wwwroot",
       "Source": "Mediplus-MVC",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\animate.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\animate.min.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/animate.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\datepicker.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\datepicker.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/datepicker.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\datepicker.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\icofont.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\icofont.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/icofont.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\icofont.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\magnific-popup.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/magnific-popup.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\nice-select.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\nice-select.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/nice-select.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\normalize.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\normalize.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/normalize.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\normalize.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\owl-carousel.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\owl-carousel.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/owl-carousel.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl-carousel.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\responsive.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\responsive.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/responsive.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\css\\slicknav.min.css",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/css/slicknav.min.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.eot",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.eot",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/icofont.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.eot"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.svg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/icofont.svg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.ttf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.ttf",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/icofont.ttf",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.ttf"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.woff",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/icofont.woff",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.woff2",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\fonts\\icofont.woff2",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/fonts/icofont.woff2",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.woff2"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\about-img.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\about-img.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/about-img.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\author1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\author1.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/author1.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\author1.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\author2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\author2.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/author2.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\author2.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\author3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\author3.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/author3.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\author3.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blockqoute-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blockqoute-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/blockqoute-bg.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blockqoute-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog1.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/blog1.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog1.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog2.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/blog2.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog2.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog3.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/blog3.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog3.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog-sidebar1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog-sidebar1.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/blog-sidebar1.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog-sidebar1.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog-sidebar2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog-sidebar2.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/blog-sidebar2.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog-sidebar2.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog-sidebar3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\blog-sidebar3.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/blog-sidebar3.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog-sidebar3.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\bread-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\bread-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/bread-bg.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bread-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\call-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\call-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/call-bg.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\call-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client1.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client1.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/client1.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\client1.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client2.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client2.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/client2.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\client2.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client3.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client3.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/client3.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\client3.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client4.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client4.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/client4.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\client4.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client5.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client5.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/client5.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\client5.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\client-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/client-bg.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\client-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\contact-img.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\contact-img.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/contact-img.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\contact-img.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\favicon.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\favicon.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\fun-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\fun-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/fun-bg.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\fun-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\logo.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\logo.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/logo.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\map-marker.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\map-marker.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/map-marker.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\map-marker.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\mission-img.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\mission-img.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/mission-img.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\mission-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf1.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/pf1.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\pf1.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf2.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/pf2.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\pf2.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf3.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/pf3.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\pf3.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf4.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\pf4.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/pf4.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\pf4.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\section-img.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\section-img.png",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/section-img.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\section-img.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\signup-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\signup-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/signup-bg.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\signup-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\slider.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\slider.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/slider.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\slider2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\slider2.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/slider2.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider2.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\slider3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\slider3.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/slider3.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slider3.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\testi-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\testi-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/testi-bg.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testi-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\video-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\img\\video-bg.jpg",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/img/video-bg.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\video-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/bootstrap-datepicker.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap-datepicker.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\colors.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\colors.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/colors.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\colors.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\easing.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\easing.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/easing.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\gmaps.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\gmaps.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/gmaps.min.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\gmaps.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/jquery.counterup.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/jquery.min.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.nav.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.nav.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/jquery.nav.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.nav.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/jquery.scrollUp.min.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery-migrate-3.0.0.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery-migrate-3.0.0.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/jquery-migrate-3.0.0.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-migrate-3.0.0.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\jquery-ui.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/jquery-ui.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\main.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\map-active.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\map-active.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/map-active.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\map-active.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\niceselect.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\niceselect.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/niceselect.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\niceselect.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\owl-carousel.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/owl-carousel.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl-carousel.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\popper.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\popper.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/popper.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\slicknav.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\slicknav.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/slicknav.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\slicknav.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\steller.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\steller.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/steller.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\steller.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\tilt.jquery.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\tilt.jquery.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/tilt.jquery.min.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\tilt.jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\wow.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\js\\wow.min.js",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/js/wow.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\wow.min.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\mail\\mail.php",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\mail\\mail.php",
       "SourceId": "Mediplus-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\mediplusss\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
       "BasePath": "_content/Mediplus-MVC",
       "RelativePath": "assets/mail/mail.php",
       "AssetKind": "All",
@@ -1516,6 +1516,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\mail\\mail.php"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\assets\\style.css",
+      "SourceId": "Mediplus-MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\MediPlus-mvc\\Mediplus-MVC\\Mediplus-MVC\\wwwroot\\",
+      "BasePath": "_content/Mediplus-MVC",
+      "RelativePath": "assets/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\style.css"
     }
   ]
 }

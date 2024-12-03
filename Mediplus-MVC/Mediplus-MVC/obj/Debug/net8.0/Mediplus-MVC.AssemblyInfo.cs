@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mediplus-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b40c3acc35e9bda7363e32743a436fabcc1d075b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9e36df46360e0136bf8ca5f1ecd4e79f60b3053")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mediplus-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mediplus-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

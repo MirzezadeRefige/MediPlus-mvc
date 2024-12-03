@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mediplus_BL
-build_property.ProjectDir = C:\Users\II Novbe\Desktop\mediplusss\Mediplus-MVC\Mediplus-BL\
+build_property.ProjectDir = C:\Users\II Novbe\Desktop\MediPlus-mvc\Mediplus-MVC\Mediplus-BL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
