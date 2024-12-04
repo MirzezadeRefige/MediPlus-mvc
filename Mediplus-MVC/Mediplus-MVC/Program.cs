@@ -7,6 +7,7 @@ builder.Services.AddDbContext<MediplusDbContext>(option => option.UseSqlServer(C
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
+app.UseStaticFiles();
 
 app.MapControllerRoute(
             name: "areas",
@@ -17,6 +18,5 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}"
     );
-app.UseStaticFiles();
 
 app.Run();
